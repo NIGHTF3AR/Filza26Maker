@@ -3,6 +3,8 @@ A small C program that takes the Filza tweak DEB and converts it to an iOS 26 / 
 <a href="https://idevicecentral.com/tweaks/filza26maker-filza-convert-deb-to-ipa-no-jailbreak-ios-18-26/">Read all about Filza26Maker</a>
 
 
+for windows use the zip file 
+
 INSTALL LATEST msys2 AND GIT .EXE FILES
 open msys2x64 run 
 pacman -S mingw-w64-x86_64-gcc
